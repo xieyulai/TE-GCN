@@ -1,10 +1,10 @@
 # TE-GCN
 Code for the paper "Temporal-Enhanced Graph Convolution Network for Skeleton-based Action Recognition"
-(It is stll under construction)
-The code is based on [2s-AGCN](https://github.com/lshiwjx/2s-AGCN)
+- It is stll under construction
+- The code is based on [2s-AGCN](https://github.com/lshiwjx/2s-AGCN)
 
 ## Data preparation
-Preparing your data according to this repo [UAVHuman-Pose](https://github.com/xieyulai/UAVHuman_For_TE-GCN)
+Preparing your data according to this repo [UAVHuman-Pose processing](https://github.com/xieyulai/UAVHuman_For_TE-GCN)
 
 Your data/ should be like this,
 ```
@@ -37,8 +37,11 @@ sh scripts/EVAL_V2.sh
 ```
 
 ## WEIGHTS
-We release two trained weight in [pan.baidu.com]()
+We release two trained weight in [baidupan](https://pan.baidu.com/s/1kourPFzEChrjc8kPO0y6rw),passwd is `nwhu`
+
+
 Your should put them into 'runs/'.
 
-V1:TOP1-42.37%
-V2:TOP1-68.11%
+
+- V1:TOP1-42.37%
+- V2:TOP1-68.11%
