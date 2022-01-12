@@ -1,9 +1,20 @@
 # TE-GCN
 
-Code for the paper "Temporal-Enhanced Graph Convolution Network for Skeleton-based Action Recognition"
+Code for the paper ["Temporal-Enhanced Graph Convolution Network for Skeleton-based Action Recognition"](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cvi2.12086)
+
+
+Please cite the following paper if you use this repository in your reseach.
+```
+@article{xie_tegcn_2022,
+author = {Xie, Yulai and Zhang, Yang and Ren, Fang},
+doi = {https://doi.org/10.1049/cvi2.12086},
+journal = {IET Comput.Vis.},
+title = {{Temporal-enhanced graph convolution network for skeleton-based action recognition}},
+year = {2022}
+}
+```
 
 Note that:
-- This code is still under construction.
 - This code is based on [2s-AGCN](https://github.com/lshiwjx/2s-AGCN)
 
 ## Data preparation
